@@ -15,7 +15,7 @@
 | Mac                                   |    ✗    |    ✓    | ![](https://raw.githubusercontent.com/barnumbirr/keysets/master/doc/xda_milestone/xda_milestone_mac.png) |
 | German Chariot                        |    ✗    |    ✗    | ![](https://raw.githubusercontent.com/barnumbirr/keysets/master/doc/xda_milestone/xda_milestone_german_chariot.png) |
 | ISO                                   |    ✗    |    ✗    | ![](https://raw.githubusercontent.com/barnumbirr/keysets/master/doc/xda_milestone/xda_milestone_iso.png) |
-| UK                                    |    ✗    |    ✗    | ![](https://raw.githubusercontent.com/barnumbirr/keysets/master/doc/xda_milestone/xda_milestone_alpha.png) |
+| UK                                    |    ✗    |    ✗    | ![](https://raw.githubusercontent.com/barnumbirr/keysets/master/doc/xda_milestone/xda_milestone_uk_iso.png) |
 | Extra Homing                          |    ✗    |    ✓    | ![](https://raw.githubusercontent.com/barnumbirr/keysets/master/doc/xda_milestone/xda_milestone_extra_homing.png) |
 | Lotus                                 |    ✗    |    ✗    | ![](https://raw.githubusercontent.com/barnumbirr/keysets/master/doc/xda_milestone/xda_milestone_lotus.png) |
 | Icon                                  |    ✗    |    ✓    | ![](https://raw.githubusercontent.com/barnumbirr/keysets/master/doc/xda_milestone/xda_milestone_icon.png) |
