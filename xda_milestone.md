@@ -10,7 +10,7 @@
 | XD Arsenal                            |    ✓    |    ✗    | ![](https://raw.githubusercontent.com/barnumbirr/keysets/master/doc/xda_milestone/xda_milestone_xd_arsenal.png) |
 | Golden Times                          |    ✗    |    ✗    | ![](https://raw.githubusercontent.com/barnumbirr/keysets/master/doc/xda_milestone/xda_milestone_golden_times.png) |
 | Windows                               |    ✗    |    ✗    | ![](https://raw.githubusercontent.com/barnumbirr/keysets/master/doc/xda_milestone/xda_milestone_windows.png) |
-| Modifier Plus                         |    ✗    |    ✗    | ![](https://raw.githubusercontent.com/barnumbirr/keysets/master/doc/xda_milestone/xda_milestone_modifier_plus.png) |
+| Modifier Plus                         |    ✗    |    ✓    | ![](https://raw.githubusercontent.com/barnumbirr/keysets/master/doc/xda_milestone/xda_milestone_modifier_plus.png) |
 | Modifier Plus +                       |    ✗    |    ✗    | ![](https://raw.githubusercontent.com/barnumbirr/keysets/master/doc/xda_milestone/xda_milestone_modifier_plus+.png) |
 | Mac                                   |    ✗    |    ✓    | ![](https://raw.githubusercontent.com/barnumbirr/keysets/master/doc/xda_milestone/xda_milestone_mac.png) |
 | German Chariot                        |    ✗    |    ✗    | ![](https://raw.githubusercontent.com/barnumbirr/keysets/master/doc/xda_milestone/xda_milestone_german_chariot.png) |
@@ -19,7 +19,7 @@
 | Extra Homing                          |    ✗    |    ✓    | ![](https://raw.githubusercontent.com/barnumbirr/keysets/master/doc/xda_milestone/xda_milestone_extra_homing.png) |
 | Lotus                                 |    ✗    |    ✗    | ![](https://raw.githubusercontent.com/barnumbirr/keysets/master/doc/xda_milestone/xda_milestone_lotus.png) |
 | Icon                                  |    ✗    |    ✓    | ![](https://raw.githubusercontent.com/barnumbirr/keysets/master/doc/xda_milestone/xda_milestone_icon.png) |
-| Mr President RGB 8 key                |    ✗    |    ✗    | ![](https://raw.githubusercontent.com/barnumbirr/keysets/master/doc/xda_milestone/xda_milestone_mr_president_rgb_8_key.png) |
+| Mr President RGB 8 key                |    ✗    |    ✓    | ![](https://raw.githubusercontent.com/barnumbirr/keysets/master/doc/xda_milestone/xda_milestone_mr_president_rgb_8_key.png) |
 | Mr President Modifier                 |    ✓    |    ✗    | ![](https://raw.githubusercontent.com/barnumbirr/keysets/master/doc/xda_milestone/xda_milestone_mr_president_modifier.png) |
 | International                         |    ✗    |    ✗    | ![](https://raw.githubusercontent.com/barnumbirr/keysets/master/doc/xda_milestone/xda_milestone_international.png) |
 | Small Engine                          |    ✗    |    ✓    | ![](https://raw.githubusercontent.com/barnumbirr/keysets/master/doc/xda_milestone/xda_milestone_small_engine.png) |
@@ -59,7 +59,7 @@
 | Spacebar 3u                           |    ✗    |    ✗    | None |
 | Spacebar 4.5u                         |    ✗    |    ✗    | None |
 | Spacebar 5.5u                         |    ✗    |    ✗    | None |
-| Spacebar 6u                           |    ✗    |    ✗    | None |
+| Spacebar 6u                           |    ✗    |    ✓    | None |
 | Spacebar 6.25u                        |    ✓    |    ✗    | None |
-| Spacebar 6.5u                         |    ✗    |    ✗    | None |
-| Spacebar 7u                           |    ✗    |    ✗    | None |
+| Spacebar 6.5u                         |    ✗    |    ✓    | None |
+| Spacebar 7u                           |    ✗    |    ✓    | None |
