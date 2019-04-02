@@ -1,4 +1,4 @@
-# [Matt3o MT3 Susuwatari](https://www.massdrop.com/buy/70691)
+# [Matt3o MT3 Susuwatari](https://www.massdrop.com/buy/massdrop-x-matt3o-mt3-susuwatari-custom-keycap-set)
 
 | Kit                                   | Have    | Want    | Pictures |
 | :-------------------------------------| :------ | :------ | :------- |
