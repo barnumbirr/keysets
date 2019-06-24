@@ -14,4 +14,3 @@ All the "fancy" keysets I currently own:
 - [SA "Ice Caps"](https://github.com/barnumbirr/keysets/blob/master/sa_ice_caps.md)
 - [XDA Canvas](https://github.com/barnumbirr/keysets/blob/master/xda_canvas.md)
 - [XDA Milestone](https://github.com/barnumbirr/keysets/blob/master/xda_milestone.md)
-- [XDA Oblique](https://github.com/barnumbirr/keysets/blob/master/xda_oblique.md)
