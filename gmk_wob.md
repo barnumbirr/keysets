@@ -2,4 +2,4 @@
 
 | Kit                                   | Have    | Want    | Pictures |
 | :-------------------------------------| :------ | :------ | :------- |
-| Base Kit                              |    ✓    |    ✗    | ![](https://raw.githubusercontent.com/barnumbirr/keysets/master/doc/gmk_dmg/gmk_dmg_base_kit.jpg) |
+| Base Kit                              |    ✓    |    ✗    | ![](https://raw.githubusercontent.com/barnumbirr/keysets/master/doc/gmk_dmg/gmk_wob_base_kit.jpg) |
