@@ -1,4 +1,4 @@
-# [GMK DMG](https://mykeyboard.eu/catalogue/gmk-dmg-base-kit_814/)
+# [GMK DMG](https://geekhack.org/index.php?topic=98153.0)
 
 | Kit                                   | Have    | Want    | Pictures |
 | :-------------------------------------| :------ | :------ | :------- |
