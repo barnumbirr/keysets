@@ -5,6 +5,8 @@ All the "fancy" keysets I currently own:
 - [DSA Royal Navy](https://github.com/barnumbirr/keysets/blob/master/dsa_royal_navy.md)
 - [GMK 9009 R3](https://github.com/barnumbirr/keysets/blob/master/gmk_9009_r3.md)
 - [GMK DMG](https://github.com/barnumbirr/keysets/blob/master/gmk_dmg.md)
+- GMK Modern Dolch 2 (to be completed)
+- GMK Nord (to be completed)
 - [GMK Oblivion V2](https://github.com/barnumbirr/keysets/blob/master/gmk_oblivion_v2.md)
 - [GMK White-on-Black](https://github.com/barnumbirr/keysets/blob/master/gmk_wob.md)
 - [JTK Classic Cyrillic Tripleshot](https://github.com/barnumbirr/keysets/blob/master/jtk_classic_cyrillic_tripleshot.md)
