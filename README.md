@@ -10,6 +10,6 @@ All the "fancy" keysets I currently own:
 - [JTK Classic Cyrillic Tripleshot](https://github.com/barnumbirr/keysets/blob/master/jtk_classic_cyrillic_tripleshot.md)
 - [JTK Yolch](https://github.com/barnumbirr/keysets/blob/master/jtk_yolch.md)
 - [Matt3o MT3 Susuwatari](https://github.com/barnumbirr/keysets/blob/master/matt3o_mt3_susuwatari.md)
-- [MiTo MT3 Godspeed](https://github.com/barnumbirr/keysets/blob/master/mito_mt3_godspeed.md)
+- [OG Cherry Doubleshot G80-1800](https://github.com/barnumbirr/keysets/blob/master/og_cherry_g80-1800.md)
 - [XDA Canvas](https://github.com/barnumbirr/keysets/blob/master/xda_canvas.md)
 - [XDA Milestone](https://github.com/barnumbirr/keysets/blob/master/xda_milestone.md)
