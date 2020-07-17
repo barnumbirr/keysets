@@ -5,7 +5,7 @@ All the "fancy" keysets I currently own:
 - [DSA Royal Navy](https://github.com/barnumbirr/keysets/blob/master/dsa_royal_navy.md)
 - [GMK 9009 R3](https://github.com/barnumbirr/keysets/blob/master/gmk_9009_r3.md)
 - [GMK DMG](https://github.com/barnumbirr/keysets/blob/master/gmk_dmg.md)
-- [GMK Modern Dolch 2](https://github.com/barnumbirr/keysets/blob/master/gmk_dmg.md)
+- [GMK Modern Dolch 2](https://github.com/barnumbirr/keysets/blob/master/gmk_modern_dolch_2.md)
 - [GMK Nord](https://github.com/barnumbirr/keysets/blob/master/gmk_nord.md)
 - [GMK Oblivion V2](https://github.com/barnumbirr/keysets/blob/master/gmk_oblivion_v2.md)
 - [GMK White-on-Black](https://github.com/barnumbirr/keysets/blob/master/gmk_wob.md)
