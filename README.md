@@ -8,6 +8,7 @@ All the "fancy" keysets I currently own:
 - [GMK Modern Dolch 2](https://github.com/barnumbirr/keysets/blob/master/gmk_modern_dolch_2.md)
 - [GMK Nord](https://github.com/barnumbirr/keysets/blob/master/gmk_nord.md)
 - [GMK Oblivion V2](https://github.com/barnumbirr/keysets/blob/master/gmk_oblivion_v2.md)
+- [GMK Penumbra](https://github.com/barnumbirr/keysets/blob/master/gmk_penumbra.md)
 - [GMK White-on-Black](https://github.com/barnumbirr/keysets/blob/master/gmk_wob.md)
 - [JTK Classic Cyrillic Tripleshot](https://github.com/barnumbirr/keysets/blob/master/jtk_classic_cyrillic_tripleshot.md)
 - [JTK Yolch](https://github.com/barnumbirr/keysets/blob/master/jtk_yolch.md)
