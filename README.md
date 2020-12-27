@@ -17,7 +17,7 @@ All the "fancy" keysets I currently own:
 | [JTK Classic Cyrillic Tripleshot](https://github.com/barnumbirr/keysets/blob/master/doc/jtk_classic_cyrillic_tripleshot/index.md) | Triple-shot ABS    | Cherry  | 10/2018 | ?                                                                          |
 | [JTK Yolch](https://github.com/barnumbirr/keysets/blob/master/doc/jtk_yolch/index.md)                                             | Double-shot ABS    | Cherry  | 05/2018 | Puddsy                                                                     |
 | [OG Cherry Doubleshot G80-1800](https://github.com/barnumbirr/keysets/blob/master/doc/og_cherry_g80_1800/index.md)                | Double-shot ABS    | Cherry  | 1990s   | Cherry GmbH (formerly Cherry Corporation)                                  |
-| [XDA Canvas R2](https://github.com/barnumbirr/keysets/blob/master/doc/xda_canva/indexs.md)                                        | Dye Sublimated PBT | XDA     | 06/2018 | MiTo                                                                       |
+| [XDA Canvas R2](https://github.com/barnumbirr/keysets/blob/master/doc/xda_canvas/index.md)                                        | Dye Sublimated PBT | XDA     | 06/2018 | MiTo                                                                       |
 | [XDA Milestone](https://github.com/barnumbirr/keysets/blob/master/doc/xda_milestone/index.md)                                     | Dye Sublimated PBT | XDA     | 11/2016 | Mz                                                                         |
 
 
