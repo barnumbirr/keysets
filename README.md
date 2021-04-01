@@ -20,3 +20,26 @@ All the "fancy" keysets I currently own:
 | [OG Cherry Doubleshot G80-1800](doc/og_cherry_g80_1800/index.md)                | Double-shot ABS    | Cherry  | 1990s   | Cherry GmbH (formerly Cherry Corporation)                                  |
 | [XDA Canvas R2](doc/xda_canvas/index.md)                                        | Dye Sublimated PBT | XDA     | 06/2018 | MiTo                                                                       |
 | [XDA Milestone](doc/xda_milestone/index.md)                                     | Dye Sublimated PBT | XDA     | 11/2016 | Mz                                                                         |
+
+## License
+
+```
+Files hosted on this repo are subject to the license of their respective
+author(s). Please refer to the original licenses for more information.
+I do not own any rights to these keysets, this project is merely used for
+reference and for tracking my personal collection. For anything else:
+
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+                    Version 2, December 2004
+
+ Copyright (C) 2018-2021 Martin Simon <me@martinsimon.me>
+
+ Everyone is permitted to copy and distribute verbatim or modified
+ copies of this license document, and changing it is allowed as long
+ as the name is changed.
+
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+  0. You just DO WHAT THE FUCK YOU WANT TO.
+```
