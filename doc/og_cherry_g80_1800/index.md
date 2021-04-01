@@ -2,4 +2,4 @@
 
 | Kit                                   | Have    | Want    | Pictures |
 | :-------------------------------------| :------ | :------ | :------- |
-| Base Kit (WKL 1800)                   |    ✓    |    ✗    | ![](https://raw.githubusercontent.com/barnumbirr/keysets/master/doc/og_cherry_g80_1800/pictures/og_cherry_g80_1800_base_kit.jpg) |
+| Base Kit (WKL 1800)                   |    ✓    |    ✗    | ![](pictures/og_cherry_g80_1800_base_kit.jpg) |

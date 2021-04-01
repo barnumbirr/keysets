@@ -2,5 +2,5 @@
 
 | Kit                                   | Have    | Want    | Pictures |
 | :-------------------------------------| :------ | :------ | :------- |
-| Base Kit                              |    ✓    |    ✗    | ![](https://raw.githubusercontent.com/barnumbirr/keysets/master/doc/gmk_penumbra/pictures/gmk_penumbra_base_kit.png) |
-| Solarized Accent Kit                  |    ✓    |    ✗    | ![](https://raw.githubusercontent.com/barnumbirr/keysets/master/doc/gmk_penumbra/pictures/gmk_penumbra_solarized_accent_kit.png) |
+| Base Kit                              |    ✓    |    ✗    | ![](pictures/gmk_penumbra_base_kit.png) |
+| Solarized Accent Kit                  |    ✓    |    ✗    | ![](pictures/gmk_penumbra_solarized_accent_kit.png) |

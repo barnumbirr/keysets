@@ -2,6 +2,6 @@
 
 | Kit                                   | Have    | Want    | Pictures |
 | :-------------------------------------| :------ | :------ | :------- |
-| Base Kit                              |    ✓    |    ✗    | ![](https://raw.githubusercontent.com/barnumbirr/keysets/master/doc/jtk_yolch/pictures/jtk_yolch_base_kit.png) |
+| Base Kit                              |    ✓    |    ✗    | ![](pictures/jtk_yolch_base_kit.png) |
 
 

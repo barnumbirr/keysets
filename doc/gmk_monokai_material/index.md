@@ -2,5 +2,5 @@
 
 | Kit                                   | Have    | Want    | Pictures |
 | :-------------------------------------| :------ | :------ | :------- |
-| Base Kit                              |    ✓    |    ✗    | ![](https://raw.githubusercontent.com/barnumbirr/keysets/master/doc/gmk_monokai_material/pictures/gmk_monokai_material_base_kit.jpg) |
-| Extension Kit                         |    ✓    |    ✗    | ![](https://raw.githubusercontent.com/barnumbirr/keysets/master/doc/gmk_monokai_material/pictures/gmk_monokai_material_extension_kit.jpg) |
+| Base Kit                              |    ✓    |    ✗    | ![](pictures/gmk_monokai_material_base_kit.jpg) |
+| Extension Kit                         |    ✓    |    ✗    | ![](pictures/gmk_monokai_material_extension_kit.jpg) |
