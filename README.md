@@ -2,8 +2,8 @@
 
 All the "fancy" keysets I currently own:
 
-| Keysets (Click for details)                                                                                                       | Specs              | Profile | Year    | Designer                                                                   |
-| :-------------------------------------------------------------------------------------------------------------------------------- | :----------------- | :------ | :------ | :------------------------------------------------------------------------- |
+| Keysets (Click for details)                                                     | Specs              | Profile | Year    | Designer                                                                   |
+| :------------------------------------------------------------------------------ | :----------------- | :------ | :------ | :------------------------------------------------------------------------- |
 | [GMK 9009 R3](doc/gmk_9009_r3/index.md)                                         | Double-shot ABS    | Cherry  | 09/2019 | justnits (R1), Janglad (R3)                                                |
 | [GMK DMG R1](doc/gmk_dmg_r1/index.md)                                           | Double-shot ABS    | Cherry  | 11/2018 | futurecrime                                                                |
 | [GMK Dolch R5](doc/gmk_dolch_r5/index.md)                                       | Double-shot ABS    | Cherry  | 09/2020 | IvanIvanovich (R1), Originative (R2 and R4), kekkon (R3), LightningXI (R5) |
