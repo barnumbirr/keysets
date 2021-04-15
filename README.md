@@ -2,7 +2,7 @@
 
 All the "fancy" keysets I currently own:
 
-| Keysets (Click for details)                                                     | Specs              | Profile | Year    | Designer                                                                   |
+| Keysets                                                                         | Specs              | Profile | Year    | Designer                                                                   |
 | :------------------------------------------------------------------------------ | :----------------- | :------ | :------ | :------------------------------------------------------------------------- |
 | [GMK 9009 R3](doc/gmk_9009_r3/index.md)                                         | Double-shot ABS    | Cherry  | 09/2019 | justnits (R1), Janglad (R3)                                                |
 | [GMK DMG R1](doc/gmk_dmg_r1/index.md)                                           | Double-shot ABS    | Cherry  | 11/2018 | futurecrime                                                                |
