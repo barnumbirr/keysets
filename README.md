@@ -11,6 +11,7 @@ All the "fancy" keysets I currently own:
 | [GMK Modern Dolch 2](doc/gmk_modern_dolch_2/index.md)                           | Double-shot ABS    | Cherry  | 06/2020 | Janglad                                                                    |
 | [GMK Monokai Material](doc/gmk_monokai_material/index.md)                       | Double-shot ABS    | Cherry  | 09/2020 | Oblotzky                                                                   |
 | [GMK Mr Sleeves R2](doc/gmk_mr_sleeves_r2/index.md)                             | Double-shot ABS    | Cherry  | 02/2021 | Nathan Kim aka. Taeha Types                                                |
+| [GMK Muted 2](doc/gmk_muted_2/index.md)                                         | Double-shot ABS    | Cherry  | 01/2021 | jchan94 (R1), Krelbit (R2)                                                                   |
 | [GMK Nord](doc/gmk_nord/index.md)                                               | Double-shot ABS    | Cherry  | 06/2020 | GTRX                                                                       |
 | [GMK Oblivion V2](doc/gmk_oblivion_v2/index.md)                                 | Double-shot ABS    | Cherry  | 06/2019 | Oblotzky                                                                   |
 | [GMK Penumbra](doc/gmk_penumbra/index.md)                                       | Double-shot ABS    | Cherry  | 03/2017 | Originative                                                                |
