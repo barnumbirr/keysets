@@ -10,12 +10,13 @@ All the "fancy" keysets I currently own:
 | [GMK Godspeed](doc/gmk_godspeed/index.md)                                       | Double-shot ABS    | Cherry  | 01/2021 | MiTo                                                                       |
 | [GMK Modern Dolch 2](doc/gmk_modern_dolch_2/index.md)                           | Double-shot ABS    | Cherry  | 06/2020 | Janglad                                                                    |
 | [GMK Monokai Material](doc/gmk_monokai_material/index.md)                       | Double-shot ABS    | Cherry  | 09/2020 | Oblotzky                                                                   |
+| [GMK Mr Sleeves R2](doc/gmk_mr_sleeves_r2/index.md)                             | Double-shot ABS    | Cherry  | 02/2021 | Nathan Kim aka. Taeha Types                                                |
 | [GMK Nord](doc/gmk_nord/index.md)                                               | Double-shot ABS    | Cherry  | 06/2020 | GTRX                                                                       |
 | [GMK Oblivion V2](doc/gmk_oblivion_v2/index.md)                                 | Double-shot ABS    | Cherry  | 06/2019 | Oblotzky                                                                   |
 | [GMK Penumbra](doc/gmk_penumbra/index.md)                                       | Double-shot ABS    | Cherry  | 03/2017 | Originative                                                                |
 | [GMK Serika R2](doc/gmk_serika_r2/index.md)                                     | Double-shot ABS    | Cherry  | 12/2020 | Zambumon                                                                   |
 | [GMK White-on-Black](doc/gmk_wob/index.md)                                      | Double-shot ABS    | Cherry  | 03/2020 | ?                                                                          |
-| [JTK Arctic](doc/jtk_arctic/index.md)                                           | Double-shot ABS    | Cherry  | 10/2018 | mcnos                                                                          |
+| [JTK Arctic](doc/jtk_arctic/index.md)                                           | Double-shot ABS    | Cherry  | 10/2018 | mcnos                                                                      |
 | [JTK Classic Cyrillic Tripleshot](doc/jtk_classic_cyrillic_tripleshot/index.md) | Triple-shot ABS    | Cherry  | 10/2018 | ?                                                                          |
 | [JTK Yolch](doc/jtk_yolch/index.md)                                             | Double-shot ABS    | Cherry  | 05/2018 | Puddsy                                                                     |
 | [OG Cherry Doubleshot G80-1800](doc/og_cherry_g80_1800/index.md)                | Double-shot ABS    | Cherry  | 1990s   | Cherry GmbH (formerly Cherry Corporation)                                  |
