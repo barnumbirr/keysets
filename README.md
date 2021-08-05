@@ -17,6 +17,7 @@ All the "fancy" keysets I currently own:
 | [GMK Oblivion V2](doc/gmk_oblivion_v2/index.md)                                 | Double-shot ABS    | Cherry  | 06/2019 | Oblotzky                                                                   |
 | [GMK Penumbra](doc/gmk_penumbra/index.md)                                       | Double-shot ABS    | Cherry  | 03/2017 | Originative                                                                |
 | [GMK Serika R2](doc/gmk_serika_r2/index.md)                                     | Double-shot ABS    | Cherry  | 12/2020 | Zambumon                                                                   |
+| [GMK ThinkCaps](doc/gmk_thinkcaps/index.md)                                     | Double-shot ABS    | Cherry  | 11/2020 | voodoo6k                                                                       |
 | [GMK White-on-Black](doc/gmk_wob/index.md)                                      | Double-shot ABS    | Cherry  | 03/2020 | ?                                                                          |
 | [JTK Arctic](doc/jtk_arctic/index.md)                                           | Double-shot ABS    | Cherry  | 10/2018 | mcnos                                                                      |
 | [JTK Classic Cyrillic Tripleshot](doc/jtk_classic_cyrillic_tripleshot/index.md) | Triple-shot ABS    | Cherry  | 10/2018 | ?                                                                          |
