@@ -1,4 +1,4 @@
-# [GMK Nord](https://geekhack.org/index.php?topic=100646.0)
+# [GMK Nord](https://geekhack.org/index.php?topic=106874.0)
 
 | Kit                                   | Have    | Want    | Pictures |
 | :-------------------------------------| :------ | :------ | :------- |

@@ -1,4 +1,4 @@
-# [GMK Modern Dolch](https://geekhack.org/index.php?topic=106437.0)
+# [GMK Modern Dolch](https://geekhack.org/index.php?topic=106764.0)
 
 | Kit                     | Have    | Want    | Pictures |
 | :-----------------------| :------ | :------ | :------- |

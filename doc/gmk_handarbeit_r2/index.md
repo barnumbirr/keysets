@@ -1,4 +1,4 @@
-# [GMK Handarbeit R2](https://geekhack.org/index.php?topic=111758.0)
+# [GMK Handarbeit R2](https://geekhack.org/index.php?topic=112557.0)
 
 | Kit                                   | Have    | Want    | Pictures                                                        |
 | :-------------------------------------| :------ | :------ | :-------------------------------------------------------------- |
