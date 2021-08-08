@@ -9,9 +9,9 @@
 | Oblivion Cadet             |    ✗    |    ✓    | ![](pictures/gmk_oblivion_v2_oblivion_cadet.png) |
 | Hagoromo Alphas            |    ✗    |    ✓    | ![](pictures/gmk_oblivion_v2_hagomoro_alphas.png) |
 | Hagoromo Cadet Alphas      |    ✗    |    ✓    | ![](pictures/gmk_oblivion_v2_hagomoro_cadet_alphas.png) |
-| Vim                        |    ✗    |    ✓    | ![](pictures/gmk_oblivion_v2_vim.png) |
+| Vim                        |    ✗    |    ✗    | ![](pictures/gmk_oblivion_v2_vim.png) |
 | Alternate Function Colors  |    ✗    |    ✓    | ![](pictures/gmk_oblivion_v2_alternate_function_colors.png) |
-| Spacekeys                  |    ✗    |    ✓    | ![](pictures/gmk_oblivion_v2_spacekeys.png) |
-| 6u Spacebars               |    ✗    |    ✓    | ![](pictures/gmk_oblivion_v2_6u_spacebars.png) |
+| Spacekeys                  |    ✗    |    ✗    | ![](pictures/gmk_oblivion_v2_spacekeys.png) |
+| 6u Spacebars               |    ✗    |    ✗    | ![](pictures/gmk_oblivion_v2_6u_spacebars.png) |
 | Oblivion Colevrak          |    ✗    |    ✗    | ![](pictures/gmk_oblivion_v2_oblivion_colevrak.png) |
 | Oblivion International     |    ✗    |    ✗    | ![](pictures/gmk_oblivion_v2_oblivion_international.png) |

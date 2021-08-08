@@ -15,6 +15,7 @@ All the "fancy" keysets I currently own:
 | [GMK Muted 2](doc/gmk_muted_2/index.md)                                         | Double-shot ABS    | Cherry  | 01/2021 | jchan94 (R1), Krelbit (R2)                                                                   |
 | [GMK Nord](doc/gmk_nord/index.md)                                               | Double-shot ABS    | Cherry  | 06/2020 | GTRX                                                                       |
 | [GMK Oblivion V2](doc/gmk_oblivion_v2/index.md)                                 | Double-shot ABS    | Cherry  | 06/2019 | Oblotzky                                                                   |
+| [GMK Oblivion V3.1](doc/gmk_oblivion_v3_1/index.md)                             | Double-shot ABS    | Cherry  | 07/2021 | Oblotzky                                                                   |
 | [GMK Penumbra](doc/gmk_penumbra/index.md)                                       | Double-shot ABS    | Cherry  | 03/2017 | Originative                                                                |
 | [GMK Serika R2](doc/gmk_serika_r2/index.md)                                     | Double-shot ABS    | Cherry  | 12/2020 | Zambumon                                                                   |
 | [GMK ThinkCaps](doc/gmk_thinkcaps/index.md)                                     | Double-shot ABS    | Cherry  | 11/2020 | voodoo6k                                                                       |
