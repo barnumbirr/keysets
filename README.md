@@ -8,17 +8,18 @@ All the "fancy" keysets I currently own:
 | [GMK DMG R1](doc/gmk_dmg_r1/index.md)                                           | Double-shot ABS    | Cherry  | 11/2018 | futurecrime                                                                |
 | [GMK Dolch R5](doc/gmk_dolch_r5/index.md)                                       | Double-shot ABS    | Cherry  | 09/2020 | IvanIvanovich (R1), Originative (R2 and R4), kekkon (R3), LightningXI (R5) |
 | [GMK Godspeed](doc/gmk_godspeed/index.md)                                       | Double-shot ABS    | Cherry  | 01/2021 | MiTo                                                                       |
-| [GMK Handarbeit R2](doc/gmk_handarbeit_r2/index.md)                             | Double-shot ABS    | Cherry  | 05/2021 | cocobrais                                                                   |
+| [GMK Handarbeit R2](doc/gmk_handarbeit_r2/index.md)                             | Double-shot ABS    | Cherry  | 05/2021 | cocobrais                                                                  |
+| [GMK Klassiker](doc/gmk_klassiker/index.md)                                     | Double-shot ABS    | Cherry  | 10/2021 | Oblotzky                                                                   |
 | [GMK Modern Dolch 2](doc/gmk_modern_dolch_2/index.md)                           | Double-shot ABS    | Cherry  | 06/2020 | Janglad                                                                    |
 | [GMK Monokai Material](doc/gmk_monokai_material/index.md)                       | Double-shot ABS    | Cherry  | 09/2020 | Oblotzky                                                                   |
 | [GMK Mr Sleeves R2](doc/gmk_mr_sleeves_r2/index.md)                             | Double-shot ABS    | Cherry  | 02/2021 | Nathan Kim aka. Taeha Types                                                |
-| [GMK Muted 2](doc/gmk_muted_2/index.md)                                         | Double-shot ABS    | Cherry  | 01/2021 | jchan94 (R1), Krelbit (R2)                                                                   |
+| [GMK Muted 2](doc/gmk_muted_2/index.md)                                         | Double-shot ABS    | Cherry  | 01/2021 | jchan94 (R1), Krelbit (R2)                                                 |
 | [GMK Nord](doc/gmk_nord/index.md)                                               | Double-shot ABS    | Cherry  | 06/2020 | GTRX                                                                       |
 | [GMK Oblivion V2](doc/gmk_oblivion_v2/index.md)                                 | Double-shot ABS    | Cherry  | 06/2019 | Oblotzky                                                                   |
 | [GMK Oblivion V3.1](doc/gmk_oblivion_v3_1/index.md)                             | Double-shot ABS    | Cherry  | 07/2021 | Oblotzky                                                                   |
 | [GMK Penumbra](doc/gmk_penumbra/index.md)                                       | Double-shot ABS    | Cherry  | 03/2017 | Originative                                                                |
 | [GMK Serika R2](doc/gmk_serika_r2/index.md)                                     | Double-shot ABS    | Cherry  | 12/2020 | Zambumon                                                                   |
-| [GMK ThinkCaps](doc/gmk_thinkcaps/index.md)                                     | Double-shot ABS    | Cherry  | 11/2020 | voodoo6k                                                                       |
+| [GMK ThinkCaps](doc/gmk_thinkcaps/index.md)                                     | Double-shot ABS    | Cherry  | 11/2020 | voodoo6k                                                                   |
 | [GMK White-on-Black](doc/gmk_wob/index.md)                                      | Double-shot ABS    | Cherry  | 03/2020 | ?                                                                          |
 | [JTK Arctic](doc/jtk_arctic/index.md)                                           | Double-shot ABS    | Cherry  | 10/2018 | mcnos                                                                      |
 | [JTK Classic Cyrillic Tripleshot](doc/jtk_classic_cyrillic_tripleshot/index.md) | Triple-shot ABS    | Cherry  | 10/2018 | ?                                                                          |
