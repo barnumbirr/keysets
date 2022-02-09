@@ -10,6 +10,7 @@ All the "fancy" keysets I currently own:
 | [GMK Godspeed](doc/gmk_godspeed/index.md)                                       | Double-shot ABS    | Cherry  | 01/2021 | MiTo                                                                       |
 | [GMK Handarbeit R2](doc/gmk_handarbeit_r2/index.md)                             | Double-shot ABS    | Cherry  | 05/2021 | cocobrais                                                                  |
 | [GMK Klassiker](doc/gmk_klassiker/index.md)                                     | Double-shot ABS    | Cherry  | 10/2021 | Oblotzky                                                                   |
+| [GMK Missing Keys R2](doc/gmk_missing_keys_r2/index.md)                         | Double-shot ABS    | Cherry  | 02/2022 | ?                                                                          |
 | [GMK Modern Dolch 2](doc/gmk_modern_dolch_2/index.md)                           | Double-shot ABS    | Cherry  | 06/2020 | Janglad                                                                    |
 | [GMK Monokai Material](doc/gmk_monokai_material/index.md)                       | Double-shot ABS    | Cherry  | 09/2020 | Oblotzky                                                                   |
 | [GMK Mr Sleeves R2](doc/gmk_mr_sleeves_r2/index.md)                             | Double-shot ABS    | Cherry  | 02/2021 | Nathan Kim aka. Taeha Types                                                |
