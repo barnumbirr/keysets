@@ -6,3 +6,27 @@
 .container-lg {
   max-width: 1280px;
 }
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #c2c6ca;
+    background-color: #212224;
+  }
+  .markdown-body .highlight pre, .markdown-body pre {
+    color: #c2c6ca;
+    background-color: #5b5e64;
+    border-radius: 0;
+  }
+  a {
+    color: #0096FF;
+    text-decoration: none;
+  }
+  h1,
+  h2 {
+    border-bottom: 1px solid #272b2b;
+  }
+  table {
+    color: #0a0a0a;
+    filter: hue-rotate(180deg) invert(0.9);
+  }
+}
