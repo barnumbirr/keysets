@@ -25,6 +25,7 @@ All the "fancy" keysets I currently own:
 | [JTK Arctic](doc/jtk_arctic/index.md)                                           | Double-shot ABS    | Cherry  | 10/2018 | mcnos                                                                      |
 | [JTK Classic Cyrillic Tripleshot](doc/jtk_classic_cyrillic_tripleshot/index.md) | Triple-shot ABS    | Cherry  | 10/2018 | ?                                                                          |
 | [JTK Yolch](doc/jtk_yolch/index.md)                                             | Double-shot ABS    | Cherry  | 05/2018 | Puddsy                                                                     |
+| [JTK Zen R1](doc/jtk_zen_r1/index.md)                                           | Double-shot ABS    | Cherry  | 05/2020 | Buger                                                                      |
 | [OG Cherry Doubleshot G80-1800](doc/og_cherry_g80_1800/index.md)                | Double-shot ABS    | Cherry  | 1990s   | Cherry GmbH (formerly Cherry Corporation)                                  |
 | [XDA Canvas R2](doc/xda_canvas/index.md)                                        | Dye Sublimated PBT | XDA     | 06/2018 | MiTo                                                                       |
 | [XDA Milestone](doc/xda_milestone/index.md)                                     | Dye Sublimated PBT | XDA     | 11/2016 | Mz                                                                         |
@@ -40,7 +41,7 @@ reference and for tracking my personal collection. For anything else:
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                     Version 2, December 2004
 
- Copyright (C) 2018-2024 Martin Simon
+ Copyright (C) 2018-2025 Martin Simon
 
  Everyone is permitted to copy and distribute verbatim or modified
  copies of this license document, and changing it is allowed as long
